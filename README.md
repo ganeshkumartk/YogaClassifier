@@ -1,5 +1,5 @@
-# How to Get a Dataset and Create a ML Model to Classify Yoga Poses (Using Azure Cognitive Services)
-This tutorial will go over how to use Azure Cognitive Services to get an image dataset and train a Custom Vision model. The repository has a simple nodejs console app that uses Bing Image Search to scrape images to a local directory based on search term(s). Then use the images scraped to create a Custom Vision model with Azure Cognitive Services.
+# Get a Dataset and Create a ML Model to Classify Yoga Poses (Using Azure Cognitive Services)
+This is to use Azure Cognitive Services to get an image dataset and train a Custom Vision model. The repository has a simple nodejs console app that uses Bing Image Search to scrape images to a local directory based on search term(s). Then use the images scraped to create a Custom Vision model with Azure Cognitive Services.
 
 
 ### Create an Azure Account
